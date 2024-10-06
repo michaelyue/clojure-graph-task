@@ -6,6 +6,8 @@ mainly related to the graph algorithm
 # How to run & test
 ## Run by lein run
 run directly with lein run command  
+go to src/myclj
+type command : lein run  
 
 result as below:  
 
